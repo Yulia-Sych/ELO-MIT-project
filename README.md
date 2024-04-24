@@ -34,6 +34,6 @@ Sourse (str) - link for the source of the information
 
 This dataset allows for in-depth analysis of trends and patterns in mass shootings over the past four decades, offering insights into factors such as frequency, severity, geographical distribution, and changes over time. Researchers and analysts can utilize this dataset to explore correlations, identify potential risk factors, assess the effectiveness of policy interventions, and inform evidence-based strategies for preventing and mitigating the impact of mass shootings in the future. To find original data please follow the [link](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/).
 
-##Approach
+## Approach
 To explore and clean the data was used Python. Cleaned file saved into xlsx format to the next work in Tableao for analysis and data visualisation. 
 
