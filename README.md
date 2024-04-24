@@ -15,22 +15,22 @@ The mass shooting problem in the United States is a complex and deeply concernin
 ## Data
 To answer research questions was chosed next dataset: US Mass Shootings, 1982–2023: Data From Mother Jones’ Investigation.
 The dataset provides a comprehensive collection of information regarding mass shooting incidents in the United States over a period from 1982 to 2023. It includes detailed data points such as 
-Case (str) - name of each case of shooting
-Location - the location (including state and city)
-Date (date) - the date of each incident
-Summary (str) - short description for each case
-Fatalities (int) - the number of fatalities
-Injured (int) - the number of injuries
-Total victims (int) - the number of fatalities and injuries
-Place (str) - where the shooting took place
-Age of shooter (int) 
-Prior Sighns Mental Health Issues (str) 
-Mental health details (str) - short description for mental health condition
-Weapons obtined legally (str) - Yes/No
-Weapon Type (str) - the type of weapons used
-Race (str)
-Gender (str) - the perpetrator's identity
-Sourse (str) - link for the source of the information
+* Case (str) - name of each case of shooting
+* Location - the location (including state and city)
+* Date (date) - the date of each incident
+* Summary (str) - short description for each case
+* Fatalities (int) - the number of fatalities
+* Injured (int) - the number of injuries
+*Total victims (int) - the number of fatalities and injuries
+* Place (str) - where the shooting took place
+* Age of shooter (int) 
+* Prior Sighns Mental Health Issues (str) 
+* Mental health details (str) - short description for mental health condition
+* Weapons obtined legally (str) - Yes/No
+* Weapon Type (str) - the type of weapons used
+* Race (str)
+* Gender (str) - the perpetrator's identity
+* Sourse (str) - link for the source of the information
 
 This dataset allows for in-depth analysis of trends and patterns in mass shootings over the past four decades, offering insights into factors such as frequency, severity, geographical distribution, and changes over time. Researchers and analysts can utilize this dataset to explore correlations, identify potential risk factors, assess the effectiveness of policy interventions, and inform evidence-based strategies for preventing and mitigating the impact of mass shootings in the future. To find original data please follow the [link](https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/).
 
