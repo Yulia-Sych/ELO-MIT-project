@@ -1,4 +1,4 @@
-# ML-MIT-project
+# Mass Shooting in the USA 
 ## Problem Identification
 The mass shooting problem in the United States is a complex and deeply concerning issue that continues to elicit widespread debate and calls for action.  Despite efforts to address the root causes and implement stricter gun control measures, such as background checks and restrictions on high-capacity magazines, the prevalence of mass shootings persists. The multifaceted nature of this problem involves considerations of mental health, social alienation, access to firearms, and systemic inequalities. Finding meaningful solutions demands a comprehensive approach that addresses these interconnected factors while respecting individual rights and promoting community safety.
 
