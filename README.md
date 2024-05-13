@@ -37,3 +37,24 @@ This dataset allows for in-depth analysis of trends and patterns in mass shootin
 ## Approach
 To explore and clean the data was used Python. [Notebook](https://github.com/Yulia-Sych/ELO-MIT-project/blob/main/Mass_shooting_US_data_preparation.ipynb) with data exploration and cleaning. Cleaned [file](https://github.com/Yulia-Sych/ELO-MIT-project/blob/main/Mass_shooting_US_cleaned.xlsx) saved into xlsx format to work in Tableau for analysis and data visualisation.
 
+## Key findings
+
+* Analising the data we can see that almost every state had incidents with gun violence. 
+* Only 10 states did not have mass shooting cases: Alaska, Delaware, Idaho, Montana, New Hampshire, North Dacota, South Dacota, Vermont, West Virginia, Wyoming.
+* Top 3 states with the highest level of mass shooting are California, Texas and Flofida. 
+* Noticeable that all states with no incidents are locaten on the North, and states with the highest level of mass shooting are located on the South. 
+* Data show that quantity of mass shooting incredibly increase every year. Exclusion is 2020 and 2021 years that connected with Coronovirus pandemic.
+* Main part of gun that was used in the mass shooting accident was obtained legally. 23,4% of gun was obtained illegally.
+* Quantity of victins significally increasing during the time from less than 50 per year on 80s to more than 150 every year with the case of 700 victims since 2015 up to current time.
+* Gathered all data about shooters we can provide a portrait of an average shooter. It's a white man in the age between 21 and 50, most likely 21-30, with previous sign of mental health issues, but he still were able to obtain the gun legally in most cases.
+
+## Action needed
+t goes beyond the mass shootings that grab the nation’s attention. Every day, gun violence takes lives from communities all across the country in the form of suicides, unintentional shootings, and interpersonal conflicts that become fatal due to easy access to guns.
+There is no single, simple solution to reducing gun violence in this country. But actions needed as a starting point.
+
+1. Sensible gun laws: Reduce easy access to dangerous weapons.
+2. Reduce firearm access to youth and individuals who are at risk of harming themselves or others.
+3. Insist on mandatory training and licensing for owners.
+4. Require safe and secure gun storage.
+5. Mental health and wellbeing: Invest in communities to promote resilience and mental health and wellbeing.
+
