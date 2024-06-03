@@ -41,8 +41,8 @@ To explore and clean the data was used Python. [Notebook](https://github.com/Yul
 
 * Analising the data we can see that almost every state had incidents with gun violence. 
 * Only 10 states did not have mass shooting cases: Alaska, Delaware, Idaho, Montana, New Hampshire, North Dacota, South Dacota, Vermont, West Virginia, Wyoming.
-* Top 3 states with the highest level of mass shooting are California, Texas and Flofida. 
-* Noticeable that all states with no incidents are locaten on the North, and states with the highest level of mass shooting are located on the South. 
+* Top 3 states with the highest level of mass shooting are California, Texas and Florida. 
+* Noticeable that all states with no incidents are locaten NOT on the South, and states with the highest level of mass shooting are located on the South. 
 * Data show that quantity of mass shooting incredibly increase every year. Exclusion is 2020 and 2021 years that connected with Coronovirus pandemic.
 * Main part of gun that was used in the mass shooting accident was obtained legally. 23,4% of gun was obtained illegally.
 * Quantity of victins significally increasing during the time from less than 50 per year on 80s to more than 150 every year with the case of 700 victims since 2015 up to current time.
